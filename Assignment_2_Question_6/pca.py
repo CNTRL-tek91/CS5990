@@ -61,7 +61,7 @@ removed_feat_max = removed_feature_after_iter[max_pc1_var]
 
 #Print results
 #Use the format: Highest PC1 variance found: ? when removing ?
-print(f"Highest PC1 variance found: {max_pc1:.3f} when removing {removed_feat_max}")
+print(f"Highest PC1 variance found: {max_pc1} when removing {removed_feat_max}")
 
 
 
